@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John Tolentino
+- 👋 Hi, I’m John Tolentino and a big fan of Pheobe Buffay 
 - 👀 I’m interested in web development and my main stack is LAMP.
 - 🌱 I’m currently learning latest javascript libraries.
 
