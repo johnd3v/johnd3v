@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Tolentino and a big fan of Phoebe Buffay 
 - 👀 I’m interested in web development and my main stack is LAMP.
-- 🌱 I’m currently learning latest javascript libraries.
+- 🌱 I’m currently learning latest javascript libraries and frameworks.
 
 <!---
 johnd3v/johnd3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
