@@ -11,7 +11,7 @@ Welcome to my corner of the coding universe! 🚀 Aspiring web developer with a 
 
 ## 🌱 Currently...
 
-Diving headfirst into the world of cutting-edge JavaScript libraries and frameworks. From React's component-driven development to Vue's elegant simplicity, and Angular's robust ecosystem, I'm on a mission to master them all.
+Learning Go!
 
 ## 📚 Learning Never Stops
 
